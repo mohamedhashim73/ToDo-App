@@ -1,7 +1,7 @@
 Application represent for User to add a Task with specific Date and have many features like :
 - Add a task with expected date
 - Add / Remove specific task to/from Done section
-- Add / Remove specific task to/from Archive section
+- Add / Remove specific task to/from Archive section.
 Developed using Dart, Flutter, SQlite, Bloc.
 
 URL for Video that show the App https://www.facebook.com/100039166004497/videos/1310178472721855/
