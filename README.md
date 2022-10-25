@@ -6,7 +6,7 @@ Application represent for User to add a Task with specific Date and have many fe
 
 Developed using Dart, Flutter, SQlite, Bloc.
 
-URL for Video that show the App https://www.linkedin.com/posts/mohamed-hashim-3b2ab2235_flutter-mobileappdevelopment-uiuxdesign-activity-6967440120278847489-7ylX?utm_source=share&utm_medium=member_desktop
+URL for Video that show the App https://mostaql.com/portfolio/1121141
 
 ![Screenshot_2022-08-23-14-26-17-36](https://user-images.githubusercontent.com/101535118/186159345-ceaf3099-48f7-42c7-857e-42cb95183a39.jpg)
 ![Screenshot_2022-08-23-14-26-41-30](https://user-images.githubusercontent.com/101535118/186159357-b1a76cc2-e20e-4754-bc53-7d3013232b5b.jpg)
